@@ -1,5 +1,5 @@
 {
   "code-runner.executorMap": {
-    "python": "python -u",
+    "python": "python3 -u",
   }
 }
