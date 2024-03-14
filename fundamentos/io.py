@@ -10,8 +10,8 @@ print(f"\n\nDados do Usuário \nNome: {nome}\nIdade: {idade}")
 
 print(type(idade))  # <class 'str'>
 
-idadeNumero = int(idade)
-print(type(idadeNumero))  # <class 'int'>
+idade_int = int(idade)
+print(type(idade_int))  # <class 'int'>
 
 # INFERÊNCIA DIRETA A PARTIR DO INPUT
 valor = int(input("O valor digitado será convertido para o tipo int: "))
